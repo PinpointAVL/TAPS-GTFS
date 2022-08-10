@@ -52,7 +52,7 @@ BT_LOOP,1,10309,Clockwise to Main Gate,1,103,BT_LOOP,,1
 BT_LOOP,1,10310,Clockwise,1,103,BT_LOOP,,1
 BT_LOOP,1,10311,Clockwise to Main Gate,1,103,BT_LOOP,,1
 EG_LOOP,1,10312,Counter Clockwise to Main Gate,0,103,EG_LOOP,,1
-EG_LOOP,1,10313,Counter Clockwise to Main Gate,0,103,EG_LOOP,,1
+BT_LOOP,1,10313,Clockwise to Main Gate,1,103,BT_LOOP,,1
 EG_LOOP,1,10501,Counter Clockwise,0,105,EG_LOOP,,1
 EG_LOOP,1,10502,Counter Clockwise to Main Gate,0,105,EG_LOOP,,1
 EG_LOOP,1,10503,Counter Clockwise,0,105,EG_LOOP,,1
@@ -85,7 +85,7 @@ BT_LOOP,1,10701,Clockwise to Main Gate,1,107,BT_LOOP,,1
 EG_LOOP,1,10702,Counter Clockwise,0,107,EG_LOOP,,1
 BT_LOOP,1,10703,Clockwise to Main Gate,1,107,BT_LOOP,,1
 BT_LOOP,1,10704,Clockwise to Main Gate,1,107,BT_LOOP,,1
-BT_LOOP,1,10705,Clockwise to Main Gate,1,107,BT_LOOP,,1
+EG_LOOP,1,10705,Counter Clockwise to Main Gate,0,107,EG_LOOP,,1
 EG_LOOP,1,10706,Counter Clockwise,0,107,EG_LOOP,,1
 EG_LOOP,1,10707,Counter Clockwise to Main Gate,0,107,EG_LOOP,,1
 BT_LOOP,1,10801,Clockwise to Main Gate,1,108,BT_LOOP,,1
