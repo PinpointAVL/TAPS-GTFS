@@ -568,7 +568,6 @@ UC,3,31409,to Oakes/West Remote,0,314,NUC,,
 UC,3,31410,to Oakes/West Remote,0,314,NUC,,
 UC,3,31411,to Oakes/West Remote,0,314,NUC,,
 UC,3,31412,to Oakes/West Remote,0,314,NUC,,
-UC,3,31413,to Oakes/West Remote,0,314,NUC,,
 UC,3,31501,to Oakes/West Remote,0,315,UC_ERM_TO_WRM,,2
 UC,3,31502,to East Remote,1,315,UC_WRM_TO_ERM,,2
 UC,3,31503,to East Remote,1,315,UC_WRM_TO_ERM,,2
