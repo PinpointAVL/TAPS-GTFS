@@ -337,17 +337,17 @@ UC,4,40716,to East Remote,1,407,UC_WRM_TO_ERM,,2
 UC,4,40717,to Oakes/West Remote,0,407,UC_ERM_TO_WRM,,2
 UC,4,40718,to East Remote,1,407,UC_WRM_TO_ERM,,2
 UC,4,40719,to Oakes/West Remote,0,407,UC_ERM_TO_WRM,,2
-UC,4,40805,to Oakes/West Remote,0,407,UC_ERM_TO_WRM,,2
-UC,4,40806,to East Remote,1,407,UC_WRM_TO_ERM,,2
-UC,4,40807,to Oakes/West Remote,0,407,UC_ERM_TO_WRM,,2
-UC,4,40808,to East Remote,1,407,UC_WRM_TO_ERM,,2
-UC,4,40809,to Oakes/West Remote,0,407,UC_ERM_TO_WRM,,2
-UC,4,40810,to East Remote,1,407,UC_WRM_TO_ERM,,2
-UC,4,40811,to Oakes/West Remote,0,407,UC_ERM_TO_WRM,,2
-UC,4,40812,to East Remote,1,407,UC_WRM_TO_ERM,,2
-UC,4,40813,to Oakes/West Remote,0,407,UC_ERM_TO_WRM,,2
-UC,4,40814,to East Remote,1,407,UC_WRM_TO_ERM,,2
-UC,4,40815,to Oakes/West Remote,0,407,UC_ERM_TO_WRM,,2
+UC,4,40805,to Oakes/West Remote,0,408,UC_ERM_TO_WRM,,2
+UC,4,40806,to East Remote,1,408,UC_WRM_TO_ERM,,2
+UC,4,40807,to Oakes/West Remote,0,408,UC_ERM_TO_WRM,,2
+UC,4,40808,to East Remote,1,408,UC_WRM_TO_ERM,,2
+UC,4,40809,to Oakes/West Remote,0,408,UC_ERM_TO_WRM,,2
+UC,4,40810,to East Remote,1,408,UC_WRM_TO_ERM,,2
+UC,4,40811,to Oakes/West Remote,0,408,UC_ERM_TO_WRM,,2
+UC,4,40812,to East Remote,1,408,UC_WRM_TO_ERM,,2
+UC,4,40813,to Oakes/West Remote,0,408,UC_ERM_TO_WRM,,2
+UC,4,40814,to East Remote,1,408,UC_WRM_TO_ERM,,2
+UC,4,40815,to Oakes/West Remote,0,408,UC_ERM_TO_WRM,,2
 LOOP,4,40901,Counter Clockwise,0,409,LOOP_OUTER,,
 LOOP,4,40902,Counter Clockwise,0,409,LOOP_OUTER,,
 LOOP,4,40903,Counter Clockwise to Main Gate,0,409,LOOP_OUTER,,
