@@ -589,7 +589,7 @@ UC,3,31603,to East Remote,1,316,UC_WRM_TO_ERM,,2
 UC,3,31604,to Oakes/West Remote,0,316,UC_ERM_TO_WRM,,2
 UC,3,31605,to Oakes/West Remote,0,316,UC_ERM_TO_WRM,,2
 LOOP,3,31606,Counter Clockwise via East Remote,0,316,ERM_LOOP,,
-UC,3,31607,Counter Clockwise to Main Gate,0,316,LOOP_OUTER,,
+LOOP,3,31607,Counter Clockwise to Main Gate,0,316,LOOP_OUTER,,
 UC,3,31608,to Oakes/West Remote,0,316,UC_ERM_TO_WRM,,2
 UC,3,31609,to East Remote,1,316,UC_WRM_TO_ERM,,2
 UC,3,31610,to Oakes/West Remote,0,316,UC_ERM_TO_WRM,,2
