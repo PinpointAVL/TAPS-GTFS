@@ -1,0 +1,5 @@
+﻿name,start stop_id,end stop_id,600,800,1000,1400,1630,1730,1830,2100,2200,blank
+West Approach,2375,2670,3,3,3,3,3,3,3,3,3,
+Oakes to Sci Hill,2670,2674,5,5,5,6,6,5,5,5,5,
+Sci Hill to Cowell,2674,2676,3,4,4,5,5,4,4,4,4,
+Cowell to Main Gt,2676,1341,5,6,5,5,6,5,5,5,4,
