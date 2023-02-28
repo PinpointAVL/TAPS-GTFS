@@ -10,7 +10,7 @@
 1617,1617,Crown/Merrill Colleges,,36.999008,-122.055176,,,,,,
 2101,2101,East Field House,,36.994263,-122.055511,,,,,,
 2102,2102,Cowell/Stevenson Colleges,,36.997498,-122.055061,,,,,,
-2328,2328,Empire Grade & Arboretum,,36.983685,-122.064934,,,,,,2
+2328,2328,Empire Grade & Arboretum Access Trail,,36.983685,-122.064934,,,,,,2
 2375,2375,High & Bay (Main Entrance),,36.977322,-122.054306,,,,,,
 2448,2448,Rachel Carson/Porter Colleges,,36.992996,-122.065201,,,,,,
 2516,2516,Family Student Housing,,36.991791,-122.066803,,,,,,
@@ -31,10 +31,11 @@
 100,100,East Remote Parking Interior,,36.9907781626465,-122.052148539679,,,,,,
 101,101,West Remote Parking Interior,,36.9885928987961,-122.064741988544,,,,,,
 102,102,West Remote Parking Entrance,,36.9887677454934,-122.06701276934,,,,,,
-200,200,Barn Theater (Main Entrance),,36.9777925819415,-122.054287189922,,,,,,
+200,200,Barn Theater/Main Entrance (Drop Off Only),,36.9777925819415,-122.054287189922,,,,,,
 201,201,2300 Delaware,,36.9555296115596,-122.058418040098,,,,,,
 299,299,2300 Delaware,,36.9554643544116,-122.058431656684,,,,,,
 2744,2744,Seymour Center,,36.949341,-122.065033,,,,,,
 2749,2749,Coastal Biology Building,,36.952572,-122.06546,,,,,,
 2750,2750,Coastal Biology Building,,36.952583,-122.065437,,,,,,
 122,122,Barn Theater (Main Entrance),,36.9777670974724,-122.054016067919,,,,,,
+120,120,McHenry Library (Special Trips Only),,36.9964375647957,-122.058671205207,,,,,,
