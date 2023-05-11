@@ -1,3 +1,2 @@
 ﻿service_id,date,exception_type
-1,20230531,2
 3,20230531,2
