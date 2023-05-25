@@ -1,0 +1,5 @@
+﻿name,start stop_id,end stop_id,800,1000,1300,1800,2100,blank
+SCMC to baymis,2701,1226,5,6,7,6,5,
+baymis to bayhi,1226,2375,2,4,5,4,4,
+bayhi to scihl,2375,2674,8,8,9,8,8,
+scihl to bayhi,2674,2376,7,7,7,7,7,

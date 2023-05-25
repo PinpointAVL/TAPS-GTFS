@@ -1,0 +1,8 @@
+﻿arrival_time,departure_time,stop_id,stop_sequence,timepoint,*shape_id
+,,101,1,1,Upper Campus via McHenry
+,,2670,2,1,Upper Campus via McHenry
+,,2671,3,0,Upper Campus via McHenry
+,,2672,4,0,Upper Campus via McHenry
+,,2673,5,0,Upper Campus via McHenry
+,,120,6,1,Upper Campus to Quarry Plaza
+,,2102,7,1,DROP OFF ONLY

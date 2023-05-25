@@ -1,0 +1,5 @@
+﻿name,start stop_id,end stop_id,600,750,950,1150,1750,2250,blank
+Main Gate to Cowell,1341,2102,4,4,4,4,4,3,
+Cowell to Sci Hill,2102,1615,2,3,2,2,2,2,
+Sci Hill to Oakes,1615,1505,4,4,3,3,3,3,
+Oakes to Main Gt,1505,1341,3,3,3,3,3,3,
