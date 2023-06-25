@@ -1,0 +1,32 @@
+stop_id,stop_name,similar_stop_id,similar_stop_name
+1341,Bay & High (UCSC - Main Gate),1341,Bay & High (UCSC - Main Gate)
+1342,Coolidge Dr & Hagar Ct  (UCSC - Lower Campus),1342,Coolidge Dr & Hagar Ct  (UCSC - Lower Campus)
+1385,Empire Grade (UCSC - Arboretum),1385,Empire Grade (UCSC - Arboretum)
+1501,Hagar Dr (UCSC - East Remote Parking),1501,Hagar Dr (UCSC - East Remote Parking)
+1505,Heller Dr (UCSC - Oakes College),1505,Heller Dr (UCSC - Oakes College)
+1509,Heller Dr & McLaughlin Dr (UCSC - Kresge College),1509,Heller Dr & McLaughlin Dr (UCSC - Kresge College)
+1615,McLaughlin Dr (UCSC - Science Hill),1615,McLaughlin Dr (UCSC - Science Hill)
+1616,McLaughlin Dr (UCSC - College 9 & 10 / Health Ctr),1616,McLaughlin Dr (UCSC - College 9 & 10 / Health Ctr)
+1617,McLaughlin Dr (UCSC - Crown & Merrill College),1617,McLaughlin Dr (UCSC - Crown & Merrill College)
+2101,Hagar Dr (UCSC - East Field House),2101,Hagar Dr (UCSC - East Field House)
+2102,"Hagar Dr (UCSC - Bookstore, Cowell & Stevenson)",2102,"Hagar Dr (UCSC - Bookstore, Cowell & Stevenson)"
+2328,Empire Grade (UCSC - Arboretum),1385,Empire Grade (UCSC - Arboretum)
+2375,High & Bay Dr (UCSC - Main Gate),2375,High & Bay Dr (UCSC - Main Gate)
+2448,Heller Dr (UCSC - Rachel Carson College & Porter),2448,Heller Dr (UCSC - Rachel Carson College & Porter)
+2516,Heller Dr (UCSC - Family Student Housing),2516,Heller Dr (UCSC - Family Student Housing)
+2669,Hagar Dr & Village Rd (UCSC - The Farm),2669,Hagar Dr & Village Rd (UCSC - The Farm)
+2670,Heller Dr (UCSC - Oakes College),1505,Heller Dr (UCSC - Oakes College)
+2671,Heller Dr (UCSC - Rachel Carson College & Porter),2448,Heller Dr (UCSC - Rachel Carson College & Porter)
+2672,Heller Dr (UCSC - Kerr Hall),2672,Heller Dr (UCSC - Kerr Hall)
+2673,Heller Dr & McLaughlin Dr (UCSC - Kresge College),1509,Heller Dr & McLaughlin Dr (UCSC - Kresge College)
+2674,McLaughlin Dr (UCSC - Science Hill),1615,McLaughlin Dr (UCSC - Science Hill)
+2675,McLaughlin Dr (UCSC - College 9 & 10 / Health Ctr),1616,McLaughlin Dr (UCSC - College 9 & 10 / Health Ctr)
+2676,"Hagar Dr (UCSC - Bookstore, Cowell & Stevenson)",2102,"Hagar Dr (UCSC - Bookstore, Cowell & Stevenson)"
+2677,Hagar Dr (UCSC - East Remote Parking),1501,Hagar Dr (UCSC - East Remote Parking)
+2678,Hagar Dr & Village Rd (UCSC - The Farm),2669,Hagar Dr & Village Rd (UCSC - The Farm)
+2679,Coolidge Dr & Hagar Ct  (UCSC - Lower Campus),1342,Coolidge Dr & Hagar Ct  (UCSC - Lower Campus)
+1510,High & Western Dr,1510,High & Western Dr
+2374,High & Western,2374,High & Western
+2739,High & Tosca Terrace,2739,High & Tosca Terrace
+100,East Remote Interior,100,East Remote Interior
+101,West Remote Interior,101,West Remote Interior
