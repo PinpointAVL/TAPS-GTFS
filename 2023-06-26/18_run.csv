@@ -1,0 +1,5 @@
+﻿name,start stop_id,end stop_id,800,1100,1500,2000,2200,blank
+scmc to misoli,2701,1624,6,7,7,5,5,
+misoli to scihl,1624,1615,15,16,16,15,15,
+scihl to misoli,1615,1623,13,14,14,13,11,
+misoli to scmc,1623,2700,8,9,10,7,6,
