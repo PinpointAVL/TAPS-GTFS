@@ -1,3 +1,4 @@
 ﻿service_id,date,exception_type
 9,20230704,2
 8,20230904,1
+7,20230904,2

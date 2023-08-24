@@ -54,6 +54,6 @@
 2663,2663,Western Dr & Flower,,36.964524,-122.05674,UCSC,,,,,
 2700,2700,Santa Cruz Metro Center,,36.9707955809695,-122.024479457651,UCSC,,,,,
 2701,2701,Santa Cruz Metro Center - Lane 1,,36.9710866454891,-122.024603786709,UCSC,,,,,
-800,800,Del Mar Theatre,,36.9725553341713,-122.025680612158,cruzer_zone,,,,,
-801,801,Locust Street Garage,,36.9752434106014,-122.027226591586,cruzer_zone,,,,,
-802,802,Marine Exploration Center,,36.963414098406,-122.024637044007,cruzer_zone,,,,,
+800,800,Del Mar Theatre,,36.9725553341713,-122.025680612158,cruzer_zone,,,,,1
+801,801,Locust Street Garage,,36.9752434106014,-122.027226591586,cruzer_zone,,,,,1
+802,802,Marine Exploration Center,,36.963414098406,-122.024637044007,cruzer_zone,,,,,1
