@@ -1,0 +1,2 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+7,1,1,1,1,1,0,0,20230904,20230922
