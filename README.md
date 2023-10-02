@@ -7,10 +7,10 @@ You can visualize the routes using [GTFS-GO for QGIS](https://plugins.qgis.org/p
 
 # Fall 2023 Changes
 
--Split NUC into distinct inbound and outbound directions.
--Updated shapefiles and run times
--Changed route colors to better align with UCSC branding guidelines
--Removed Santa Cruzer
+- Split NUC into distinct inbound and outbound directions.
+- Updated shapefiles and run times
+- Changed route colors to better align with UCSC branding guidelines
+- Removed Santa Cruzer
 
 # Summer 2023 Changes
 
