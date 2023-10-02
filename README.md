@@ -5,12 +5,17 @@ GTFS Feed for UCSC Transportation and Parking Services.
 
 You can visualize the routes using [GTFS-GO for QGIS](https://plugins.qgis.org/plugins/GTFS-GO-master/) and the schedules using [GTFS-to-HTML](https://gtfstohtml.com/docs/). And of course, you can look at UCSC on Google Maps to see the GTFS feed in action!
 
-# Fall 2023 Chanes
+# Fall 2023 Changes
 
 -Split NUC into distinct inbound and outbound directions.
 -Updated shapefiles and run times
 -Changed route colors to better align with UCSC branding guidelines
 -Removed Santa Cruzer
+
+# Summer 2023 Changes
+
+- Swiched to summer schedule
+- Added Santa Cruzer
 
 # Spring 2023 Changes
  
