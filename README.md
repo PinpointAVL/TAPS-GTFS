@@ -1,8 +1,16 @@
 # TAPS-GTFS Information
-Published GTFS Feed for UCSC Transportation and Parking Services.
-Created using the RTAP's GTFS workbook. For feed production, use the dev branch. 
+GTFS Feed for UCSC Transportation and Parking Services.
+
+**** DO NOT TRY TO EDIT THE XLSM FILE ON A MAC. IT WILL CORRUPT THE FEED ****
 
 You can visualize the routes using [GTFS-GO for QGIS](https://plugins.qgis.org/plugins/GTFS-GO-master/) and the schedules using [GTFS-to-HTML](https://gtfstohtml.com/docs/). And of course, you can look at UCSC on Google Maps to see the GTFS feed in action!
+
+# Fall 2023 Chanes
+
+-Split NUC into distinct inbound and outbound directions.
+-Updated shapefiles and run times
+-Changed route colors to better align with UCSC branding guidelines
+-Removed Santa Cruzer
 
 # Spring 2023 Changes
  
@@ -21,3 +29,4 @@ You can visualize the routes using [GTFS-GO for QGIS](https://plugins.qgis.org/p
  - Changed feed contact email so that our validation errors are sent to us instead of the TAPS director
  - Added McHenry NUC
  
+

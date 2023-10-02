@@ -1,0 +1,3 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+TAPS,UCSC Transportation and Parking Services,https://taps.ucsc.edu/buses-shuttles/index.html,America/Los_Angeles,en,831-459-4543,,taps@ucsc.edu
+SantaCruz,City of Santa Cruz,https://www.cityofsantacruz.com/government/city-departments/economic-development/the-santa-cruzer-beach-downtown-shuttle,America/Los_Angeles,en,,,kferraro@santacruzca.gov

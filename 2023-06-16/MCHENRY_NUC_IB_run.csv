@@ -1,0 +1,4 @@
+﻿name,start stop_id,end stop_id,600,800,1000,1400,1630,1730,1830,2100,2200,blank
+West Remote to Oakes,101,2670,1,1,1,1,1,1,2,1,1,
+Oakes to McHenry,2670,120,5,5,5,4,4,4,4,4,4,
+McHenry to Quary Plaza,120,2102,3,4,4,4,4,5,5,4,4,

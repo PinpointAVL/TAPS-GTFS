@@ -1,0 +1,15 @@
+﻿arrival_time,departure_time,stop_id,stop_sequence,timepoint,*shape_id
+,,2375,1,1,
+,,2374,2,0,
+,,1385,3,0,
+,,2670,4,1,
+,,2671,5,0,
+,,2672,6,0,
+,,2673,7,0,
+,,2674,8,1,Clockwise Loop to Main Entrance
+,,2675,9,0,Clockwise Loop to Main Entrance
+,,2676,10,1,Clockwise Loop to Main Entrance
+,,2677,11,0,Clockwise Loop to Main Entrance
+,,2678,12,0,Clockwise Loop to Main Entrance
+,,2679,13,0,Clockwise Loop to Main Entrance
+,,122,14,1,DROP OFF ONLY

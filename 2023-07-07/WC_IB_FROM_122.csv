@@ -1,0 +1,6 @@
+﻿arrival_time,departure_time,stop_id,stop_sequence,timepoint,*shape_id
+,,122,1,1,
+,,200,2,1,
+,,201,3,1,
+,,2749,4,0,
+,,2744,5,1,DROP OFF ONLY

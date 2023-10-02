@@ -1,0 +1,94 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+EG_LOOP,1,10404,Counter Clockwise,0,104,EG_LOOP,,1
+EG_LOOP,1,10405,Counter Clockwise,0,104,EG_LOOP,,1
+EG_LOOP,1,10406,Counter Clockwise,0,104,EG_LOOP,,1
+BT_LOOP,1,10407,Clockwise to Main Gate,1,104,BT_LOOP,,1
+EG_LOOP,1,10408,Counter Clockwise,0,104,EG_LOOP,,1
+EG_LOOP,1,10101,Counter Clockwise,0,101,EG_LOOP,,1
+EG_LOOP,1,10102,Counter Clockwise,0,101,EG_LOOP,,1
+EG_LOOP,1,10103,Counter Clockwise to Main Gate,0,101,EG_LOOP,,1
+EG_LOOP,1,10104,Counter Clockwise,0,101,EG_LOOP,,1
+EG_LOOP,1,10105,Counter Clockwise to Main Gate,0,101,EG_LOOP,,1
+EG_LOOP,1,10106,Counter Clockwise,0,101,EG_LOOP,,1
+EG_LOOP,1,10107,Counter Clockwise,0,101,EG_LOOP,,1
+EG_LOOP,1,10108,Counter Clockwise to Main Gate,0,101,EG_LOOP,,1
+EG_LOOP,1,10109,Counter Clockwise,0,101,EG_LOOP,,1
+EG_LOOP,1,10110,Counter Clockwise to Main Gate,0,101,EG_LOOP,,1
+EG_LOOP,1,10111,Counter Clockwise,0,101,EG_LOOP,,1
+EG_LOOP,1,10112,Counter Clockwise to Main Gate,0,101,EG_LOOP,,1
+EG_LOOP,1,10113,Counter Clockwise,0,101,EG_LOOP,,1
+EG_LOOP,1,10114,Counter Clockwise,0,101,EG_LOOP,,1
+EG_LOOP,1,10115,Counter Clockwise,0,101,EG_LOOP,,1
+EG_LOOP,1,10116,Counter Clockwise to Main Gate,0,101,EG_LOOP,,1
+BT_LOOP,1,10201,Clockwise,1,102,BT_LOOP,,1
+BT_LOOP,1,10202,Clockwise to Main Gate,1,102,BT_LOOP,,1
+BT_LOOP,1,10203,Clockwise,1,102,BT_LOOP,,1
+BT_LOOP,1,10204,Clockwise,1,102,BT_LOOP,,1
+BT_LOOP,1,10205,Clockwise to Main Gate,1,102,BT_LOOP,,1
+BT_LOOP,1,10206,Clockwise,1,102,BT_LOOP,,1
+BT_LOOP,1,10207,Clockwise,1,102,BT_LOOP,,1
+BT_LOOP,1,10208,Clockwise to Main Gate,1,102,BT_LOOP,,1
+BT_LOOP,1,10209,Clockwise,1,102,BT_LOOP,,1
+BT_LOOP,1,10210,Clockwise,1,102,BT_LOOP,,1
+BT_LOOP,1,10211,Clockwise to Main Gate,1,102,BT_LOOP,,1
+BT_LOOP,1,10212,Clockwise,1,102,BT_LOOP,,1
+BT_LOOP,1,10213,Clockwise,1,102,BT_LOOP,,1
+BT_LOOP,1,10214,Clockwise,1,102,BT_LOOP,,1
+BT_LOOP,1,10215,Clockwise to Main Gate,1,102,BT_LOOP,,1
+BT_LOOP,1,10216,Clockwise,1,102,BT_LOOP,,1
+BT_LOOP,1,10217,Clockwise to Main Gate,1,102,BT_LOOP,,1
+EG_LOOP,1,10301,Counter Clockwise,0,103,EG_LOOP,,1
+EG_LOOP,1,10302,Counter Clockwise,0,103,EG_LOOP,,1
+BT_LOOP,1,10303,Clockwise to Main Gate,1,103,BT_LOOP,,1
+EG_LOOP,1,10304,Counter Clockwise to Main Gate,0,103,EG_LOOP,,1
+BT_LOOP,1,10305,Clockwise,1,103,BT_LOOP,,1
+BT_LOOP,1,10306,Clockwise to Main Gate,1,103,BT_LOOP,,1
+BT_LOOP,1,10307,Clockwise to Main Gate,1,103,BT_LOOP,,1
+BT_LOOP,1,10308,Clockwise,1,103,BT_LOOP,,1
+BT_LOOP,1,10309,Clockwise to Main Gate,1,103,BT_LOOP,,1
+BT_LOOP,1,10310,Clockwise,1,103,BT_LOOP,,1
+BT_LOOP,1,10311,Clockwise to Main Gate,1,103,BT_LOOP,,1
+EG_LOOP,1,10312,Counter Clockwise to Main Gate,0,103,EG_LOOP,,1
+BT_LOOP,1,10313,Clockwise to Main Gate,1,103,BT_LOOP,,1
+EG_LOOP,1,10501,Counter Clockwise,0,105,EG_LOOP,,1
+EG_LOOP,1,10502,Counter Clockwise to Main Gate,0,105,EG_LOOP,,1
+EG_LOOP,1,10503,Counter Clockwise,0,105,EG_LOOP,,1
+EG_LOOP,1,10504,Counter Clockwise to Main Gate,0,105,EG_LOOP,,1
+EG_LOOP,1,10505,Counter Clockwise,0,105,EG_LOOP,,1
+EG_LOOP,1,10506,Counter Clockwise,0,105,EG_LOOP,,1
+EG_LOOP,1,10507,Counter Clockwise to Main Gate,0,105,EG_LOOP,,1
+EG_LOOP,1,10508,Counter Clockwise,0,105,EG_LOOP,,1
+EG_LOOP,1,10509,Counter Clockwise to Main Gate,0,105,EG_LOOP,,1
+EG_LOOP,1,10510,Counter Clockwise,0,105,EG_LOOP,,1
+EG_LOOP,1,10511,Counter Clockwise,0,105,EG_LOOP,,1
+EG_LOOP,1,10512,Counter Clockwise,0,105,EG_LOOP,,1
+EG_LOOP,1,10513,Counter Clockwise to Main Gate,0,105,EG_LOOP,,1
+BT_LOOP,1,10601,Clockwise to Main Gate,1,106,BT_LOOP,,1
+BT_LOOP,1,10602,Clockwise,1,106,BT_LOOP,,1
+BT_LOOP,1,10603,Clockwise,1,106,BT_LOOP,,1
+BT_LOOP,1,10604,Clockwise to Main Gate,1,106,BT_LOOP,,1
+BT_LOOP,1,10605,Clockwise,1,106,BT_LOOP,,1
+BT_LOOP,1,10606,Clockwise,1,106,BT_LOOP,,1
+BT_LOOP,1,10607,Clockwise to Main Gate,1,106,BT_LOOP,,1
+BT_LOOP,1,10608,Clockwise,1,106,BT_LOOP,,1
+BT_LOOP,1,10609,Clockwise,1,106,BT_LOOP,,1
+BT_LOOP,1,10610,Clockwise to Main Gate,1,106,BT_LOOP,,1
+BT_LOOP,1,10611,Clockwise,1,106,BT_LOOP,,1
+BT_LOOP,1,10612,Clockwise,1,106,BT_LOOP,,1
+BT_LOOP,1,10613,Clockwise to Main Gate,1,106,BT_LOOP,,1
+BT_LOOP,1,10614,Clockwise,1,106,BT_LOOP,,1
+BT_LOOP,1,10615,Clockwise to Main Gate,1,106,BT_LOOP,,1
+BT_LOOP,1,10701,Clockwise to Main Gate,1,107,BT_LOOP,,1
+EG_LOOP,1,10702,Counter Clockwise,0,107,EG_LOOP,,1
+BT_LOOP,1,10703,Clockwise to Main Gate,1,107,BT_LOOP,,1
+BT_LOOP,1,10704,Clockwise to Main Gate,1,107,BT_LOOP,,1
+EG_LOOP,1,10705,Counter Clockwise to Main Gate,0,107,EG_LOOP,,1
+EG_LOOP,1,10706,Counter Clockwise,0,107,EG_LOOP,,1
+EG_LOOP,1,10707,Counter Clockwise to Main Gate,0,107,EG_LOOP,,1
+BT_LOOP,1,10801,Clockwise to Main Gate,1,108,BT_LOOP,,1
+EG_LOOP,1,10802,Counter Clockwise to Main Gate,0,108,EG_LOOP,,1
+EG_LOOP,1,10803,Counter Clockwise to Main Gate,0,108,EG_LOOP,,1
+BT_LOOP,1,10804,Clockwise,1,108,BT_LOOP,,1
+BT_LOOP,1,10805,Clockwise to Main Gate,1,108,BT_LOOP,,1
+BT_LOOP,1,10806,Clockwise to Main Gate,1,108,BT_LOOP,,1
+EG_LOOP,1,10807,Counter Clockwise to Main Gate,0,108,EG_LOOP,,1
