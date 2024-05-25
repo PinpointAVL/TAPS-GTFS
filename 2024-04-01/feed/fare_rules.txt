@@ -1,1 +1,2 @@
 ﻿fare_id,route_id,origin_id,destination_id,contains_id
+cruzer_fare,SC,cruzer_zone,cruzer_zone,

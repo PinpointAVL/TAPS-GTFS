@@ -1,4 +1,6 @@
 ﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-LOOP,TAPS,LOOP,Loop,,3,,00A4E4,FFFFFF,3,1,1
-UC,TAPS,UC,Upper Campus,,3,,DA216D,FFFFFF,2,1,1
-WC,TAPS,WC,Westside Connector,,3,,F29813,FFFFFF,1,1,1
+LOOP,TAPS,LOOP,Loop,,3,,00A4E4,FFFFFF,4,1,1
+UC,TAPS,UC,Upper Campus,,3,,DA216D,FFFFFF,3,1,1
+WC,TAPS,WC,Westside Connector,,3,,F29813,FFFFFF,2,1,1
+SC,SantaCruz,Santa Cruzer,Beach/Downtown Shuttle,,3,,4197B5,FFFFFF,5,1,1
+18,TAPS,18,Mission,,3,,F29813,FFFFFF,1,1,1
