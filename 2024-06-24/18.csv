@@ -1,0 +1,42 @@
+stop_id,stop_sequence,timepoint,shape_dist_traveled,drop_off_type,pickup_type,stop_headsign
+2701,1,1,,,,
+1591,2,0,,,,
+2731,3,0,,,,
+1630,4,0,,,,
+1624,5,1,,,,
+1620,6,0,,,,
+2342,7,0,,,,
+2344,8,0,,,,
+1907,9,0,,,,
+2393,10,0,,,,
+1909,11,0,,,,
+1910,12,0,,,,
+1510,13,0,,,,
+1341,14,0,,,,
+1342,15,0,,,,
+2669,16,0,,,,
+1501,17,0,,,,
+2101,18,0,,,,
+2102,19,0,,,,Mission to Downtown
+1617,20,0,,,,Mission to Downtown
+1616,21,0,,,,Mission to Downtown
+1615,22,1,,,,Mission to Downtown
+1509,23,0,,,,Mission to Downtown
+2448,24,0,,,,Mission to Downtown
+2516,25,0,,,,Mission to Downtown
+1505,26,0,,,,Mission to Downtown
+2328,27,0,,,,Mission to Downtown
+2739,28,0,,,,Mission to Downtown
+2659,29,0,,,,Mission to Downtown
+2660,30,0,,,,Mission to Downtown
+2661,31,0,,,,Mission to Downtown
+2662,32,0,,,,Mission to Downtown
+2663,33,0,,,,Mission to Downtown
+2619,34,0,,,,Mission to Downtown
+1619,35,1,,,,Mission to Downtown
+1623,36,0,,,,Mission to Downtown
+1625,37,0,,,,Mission to Downtown
+1629,38,0,,,,Mission to Downtown
+1590,39,0,,,,Mission to Downtown
+2572,40,0,,,,Mission to Downtown
+2667,41,1,,,1,DROP OFF ONLY
