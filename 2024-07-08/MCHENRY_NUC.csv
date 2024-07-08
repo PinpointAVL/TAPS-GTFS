@@ -1,0 +1,8 @@
+stop_id,stop_sequence,timepoint,shape_dist_traveled,drop_off_type,pickup_type,stop_headsign
+101,1,1,0.001,,,
+2670,2,1,0.503,,,
+2671,3,0,0.889,,,
+2672,4,0,1.379,,,
+2673,5,0,1.682,,,
+120,6,1,2.548,,,Upper Campus to Quarry Plaza
+2676,7,1,2.884,,,Upper Campus to Quarry Plaza

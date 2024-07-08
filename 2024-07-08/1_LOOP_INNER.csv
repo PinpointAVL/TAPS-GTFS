@@ -1,0 +1,9 @@
+segment,start_stop,end_stop,start_time,end_time,run
+Main Gate to Oakes,2375,2670,06:00:00,07:35:00,3
+Oakes to Science Hill,2670,2674,06:00:00,07:35:00,4
+Science Hill to Cowste,2674,2676,06:00:00,07:35:00,3
+Cowste to Main Gate,2676,2375,06:00:00,07:35:00,5
+Main Gate to Oakes,2375,2670,07:35:00,23:59:00,3
+Oakes to Science Hill,2670,2674,07:35:00,23:59:00,4
+Science Hill to Cowste,2674,2676,07:35:00,23:59:00,3
+Cowste to Main Gate,2676,2375,07:35:00,23:59:00,5

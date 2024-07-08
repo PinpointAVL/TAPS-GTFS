@@ -1,0 +1,29 @@
+segment,start_stop,end_stop,start_time,end_time,run
+WRM to Oakes,101,2670,00:00:00,06:00:00,1
+Oakes to McHenry,2670,120,00:00:00,06:00:00,7
+Science Hill to Cowste,2674,2676,00:00:00,06:00:00,4
+McHenry to Quarry,101,2676,00:00:00,06:00:00,2
+WRM to Oakes,101,2670,06:00:00,17:15:00,1
+Oakes to McHenry,2670,120,06:00:00,17:15:00,7
+Science Hill to Cowste,2674,2676,06:00:00,17:15:00,4
+McHenry to Quarry,101,2676,06:00:00,17:15:00,2
+WRM to Oakes,101,2670,17:15:00,17:25:00,1
+Oakes to McHenry,2670,120,17:15:00,17:25:00,7
+Science Hill to Cowste,2674,2676,17:15:00,17:25:00,4
+McHenry to Quarry,101,2676,17:15:00,17:25:00,2
+WRM to Oakes,101,2670,17:25:00,18:35:00,1
+Oakes to McHenry,2670,120,17:25:00,18:35:00,7
+Science Hill to Cowste,2674,2676,17:25:00,18:35:00,4
+McHenry to Quarry,101,2676,17:25:00,18:35:00,2
+WRM to Oakes,101,2670,18:35:00,18:55:00,1
+Oakes to McHenry,2670,120,17:25:00,18:35:00,7
+Science Hill to Cowste,2674,2676,17:25:00,18:35:00,4
+McHenry to Quarry,101,2676,17:25:00,18:35:00,2
+WRM to Oakes,101,2670,18:55:00,19:05:00,1
+Oakes to McHenry,2670,120,18:55:00,19:05:00,7
+Science Hill to Cowste,2674,2676,18:55:00,19:05:00,4
+McHenry to Quarry,101,2676,18:55:00,19:05:00,2
+WRM to Oakes,101,2670,19:05:00,23:59:00,1
+Oakes to McHenry,2670,120,19:05:00,23:59:00,7
+Science Hill to Cowste,2674,2676,19:05:00,23:59:00,4
+McHenry to Quarry,101,2676,19:05:00,23:59:00,2
