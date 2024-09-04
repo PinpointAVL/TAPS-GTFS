@@ -1,0 +1,30 @@
+stop_id,stop_sequence,timepoint,shape_dist_traveled,drop_off_type,pickup_type,stop_headsign
+2701,1,1,,,,
+1591,2,0,,,,
+2731,3,0,,,,
+1630,4,0,,,,
+1624,5,1,,,,
+1620,6,0,,,,
+2342,7,0,,,,
+2344,8,0,,,,
+1907,9,0,,,,
+2393,10,0,,,,
+1909,11,0,,,,
+1910,12,0,,,,
+1510,13,0,,,,
+1341,14,0,,,,
+1342,15,0,,,,
+2669,16,0,,,,
+1501,17,0,,,,
+2101,18,0,,,,
+2102,19,0,,,,Campus Only
+1617,20,0,,,,Campus Only
+1616,21,0,,,,Campus Only
+1615,22,1,,,,Campus Only
+1509,23,0,,,,Campus Only
+2448,24,0,,,,Campus Only
+2516,25,0,,,,Campus Only
+1505,26,0,,,,Campus Only
+2328,27,0,,,,Campus Only
+2739,28,0,,,,Campus Only
+1341,29,1,,,1,DROP OFF ONLY

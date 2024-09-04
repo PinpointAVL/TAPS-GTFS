@@ -1,0 +1,17 @@
+segment,start_stop,end_stop,start_time,end_time,run
+Main Gate to Cowell,1341,2102,06:00:00,09:00:00,5
+Cowell to Sci Hill,2102,1615,06:00:00,09:00:00,3
+Sci Hill to Oakes,1615,1505,06:00:00,09:00:00,4
+Oakes to Main Gt,1505,1341,06:00:00,09:00:00,3
+Main Gate to Cowell,1341,2102,09:00:00,12:00:00,5
+Cowell to Sci Hill,2102,1615,09:00:00,12:00:00,3
+Sci Hill to Oakes,1615,1505,09:00:00,12:00:00,3
+Oakes to Main Gt,1505,1341,09:00:00,12:00:00,3
+Main Gate to Cowell,1341,2102,12:00:00,18:00:00,5
+Cowell to Sci Hill,2102,1615,12:00:00,18:00:00,3
+Sci Hill to Oakes,1615,1505,12:00:00,18:00:00,4
+Oakes to Main Gt,1505,1341,12:00:00,18:00:00,3
+Main Gate to Cowell,1341,2102,18:00:00,23:59:00,4
+Cowell to Sci Hill,2102,1615,18:00:00,23:59:00,3
+Sci Hill to Oakes,1615,1505,18:00:00,23:59:00,3
+Oakes to Main Gt,1505,1341,18:00:00,23:59:00,3

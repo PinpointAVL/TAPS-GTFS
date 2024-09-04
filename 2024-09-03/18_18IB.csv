@@ -1,0 +1,16 @@
+segment,start_stop,end_stop,start_time,end_time,run
+Bayhi to Scihl,1341,1615,06:00:00,13:50:00,8
+Scihl to Almar,1615,1619,06:00:00,13:50:00,13
+Almar to RiverFront,1619,2667,06:00:00,13:50:00,11
+Bayhi to Scihl,1341,1615,13:50:00,17:20:00,8
+Scihl to Almar,1615,1619,13:50:00,17:20:00,16
+Almar to RiverFront,1619,2667,13:50:00,17:20:00,12
+Bayhi to Scihl,1341,1615,17:20:00,19:20:00,8
+Scihl to Almar,1615,1619,17:20:00,19:20:00,15
+Almar to RiverFront,1619,2667,17:20:00,19:20:00,11
+Bayhi to Scihl,1341,1615,19:20:00,21:20:00,8
+Scihl to Almar,1615,1619,19:20:00,21:20:00,13
+Almar to RiverFront,1619,2667,19:20:00,21:20:00,11
+Bayhi to Scihl,1341,1615,21:20:00,23:59:00,8
+Scihl to Almar,1615,1619,21:20:00,23:59:00,12
+Almar to RiverFront,1619,2667,21:20:00,23:59:00,10

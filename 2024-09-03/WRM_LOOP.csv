@@ -1,0 +1,17 @@
+stop_id,stop_sequence,timepoint,shape_dist_traveled,drop_off_type,pickup_type,stop_headsign
+2375,1,1,0,,,
+2374,2,0,0.369,,,
+1385,3,0,0.986,,,
+101,4,1,2.332,,,
+102,5,0,2.539,,,
+2670,6,0,2.834,,,Clockwise Loop
+2671,7,0,3.22,,,Clockwise Loop
+2672,8,0,3.71,,,Clockwise Loop
+2673,9,0,4.014,,,Clockwise Loop
+2674,10,1,4.221,,,Clockwise Loop
+2675,11,0,4.597,,,Clockwise Loop
+2676,12,1,5.219,,,Clockwise Loop
+2677,13,0,5.841,,,Clockwise Loop
+2678,14,0,6.475,,,Clockwise Loop
+2679,15,0,7.065,,,Clockwise Loop
+2375,16,1,7.672,,1,Clockwise Loop

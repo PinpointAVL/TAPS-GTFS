@@ -1,0 +1,5 @@
+stop_id,stop_sequence,timepoint,shape_dist_traveled,drop_off_type,pickup_type,stop_headsign
+2744,1,1,0,,,
+2750,2,0,0.402,,,
+299,3,1,0.8,,,
+1341,4,1,4.712,,1,
