@@ -1,0 +1,19 @@
+stop_id,stop_sequence,timepoint,shape_dist_traveled,drop_off_type,pickup_type,stop_headsign
+1341,1,1,,,,Counter Clockwise via East Remote
+1342,2,0,,,,Counter Clockwise via East Remote
+2669,3,0,,,,Counter Clockwise via East Remote
+100,4,0,,,,Counter Clockwise via East Remote
+1501,5,0,,,,Counter Clockwise
+2101,6,0,,,,Counter Clockwise
+2102,7,1,,,,Counter Clockwise
+1617,8,0,,,,Counter Clockwise
+1616,9,0,,,,Counter Clockwise
+1615,10,1,,,,Counter Clockwise
+1509,11,0,,,,Counter Clockwise
+2448,12,0,,,,Counter Clockwise
+2516,13,0,,,,Counter Clockwise
+1505,14,1,,,,Counter Clockwise
+2328,15,0,,,,Counter Clockwise
+2739,16,0,,,,Counter Clockwise
+1510,17,0,,,,Counter Clockwise
+1341,18,1,,,1,Counter Clockwise

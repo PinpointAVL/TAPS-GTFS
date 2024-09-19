@@ -1,0 +1,25 @@
+segment,start_stop,end_stop,start_time,end_time,run
+Main Gate to Cowell,1341,2102,06:00:00,19:55:00,6
+Cowell to Sci Hill,2102,1615,06:00:00,19:55:00,4
+Sci Hill to Oakes,1615,1505,06:00:00,19:55:00,5
+Oakes to WRM,1505,101,06:00:00,19:55:00,1
+WRM to Oakes,101,2670,06:00:00,19:55:00,2
+Oakes to Science Hill,2670,2674,06:00:00,19:55:00,5
+Science Hill to Cowste,2674,2676,06:00:00,19:55:00,4
+Cowste to Main Gate,2676,1341,06:00:00,19:55:00,6
+Main Gate to Cowell,1341,2102,19:55:00,21:15:00,5
+Cowell to Sci Hill,2102,1615,19:55:00,21:15:00,4
+Sci Hill to Oakes,1615,1505,19:55:00,21:15:00,5
+Oakes to WRM,1505,101,19:55:00,21:15:00,1
+WRM to Oakes,101,2670,19:55:00,21:15:00,2
+Oakes to Science Hill,2670,2674,19:55:00,21:15:00,5
+Science Hill to Cowste,2674,2676,19:55:00,21:15:00,3
+Cowste to Main Gate,2676,1341,19:55:00,21:15:00,5
+Main Gate to Cowell,1341,2102,21:15:00,23:59:00,5
+Cowell to Sci Hill,2102,1615,21:15:00,23:59:00,3
+Sci Hill to Oakes,1615,1505,21:15:00,23:59:00,4
+Oakes to WRM,1505,101,21:15:00,23:59:00,1
+WRM to Oakes,101,2670,21:15:00,23:59:00,2
+Oakes to Science Hill,2670,2674,21:15:00,23:59:00,4
+Science Hill to Cowste,2674,2676,21:15:00,23:59:00,3
+Cowste to Main Gate,2676,1341,21:15:00,23:59:00,5

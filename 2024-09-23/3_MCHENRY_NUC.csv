@@ -1,0 +1,8 @@
+segment,start_stop,end_stop,start_time,end_time,run
+Main Gate to Cowell,1341,2102,06:00:00,23:59:00,5
+Cowell to Sci Hill,2102,1615,06:00:00,23:59:00,3
+Sci Hill to Oakes,1615,1505,06:00:00,23:59:00,4
+Oakes to WRM,1505,101,06:00:00,23:59:00,1
+WRM to Oakes,101,2670,06:00:00,23:59:00,2
+Oakes to McHenry,2670,120,06:00:00,23:59:00,8
+McHenry to Cowell,120,2676,06:00:00,23:59:00,2
