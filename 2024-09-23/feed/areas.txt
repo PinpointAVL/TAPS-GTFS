@@ -1,0 +1,3 @@
+﻿area_id,area_name
+BT,High & Bay (Main Entrance)
+EG,Bay & High (Main Entrance)
