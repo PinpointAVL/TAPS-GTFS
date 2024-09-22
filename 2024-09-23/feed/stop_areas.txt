@@ -1,5 +1,0 @@
-area_id,stop_id
-BT,122
-BT,2375
-EG,122
-EG,1341
