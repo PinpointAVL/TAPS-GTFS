@@ -676,162 +676,162 @@ UC,4,1449,Upper Campus to East Remote,1,425,UC_WRM_TO_ERM,,2
 UC,4,1450,Upper Campus to Oakes/West Remote,0,425,UC_ERM_TO_WRM,,2
 UC,4,1451,Upper Campus to East Remote,1,425,UC_WRM_TO_ERM,,2
 UC,4,1453,Upper Campus to Oakes/West Remote,0,425,UC_ERM_TO_WRM,,2
-LOOP,3B,1500,Counter Clockwise,0,301,LOOP_OUTER,,1
-LOOP,3B,1501,Clockwise,1,304,LOOP_INNER,,1
-LOOP,3B,1502,Counter Clockwise,0,302,LOOP_OUTER,,1
-LOOP,3B,1503,Clockwise,1,305,LOOP_INNER,,1
-UC,3B,1504,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
-LOOP,3B,1505,Clockwise,1,306,LOOP_INNER,,1
-LOOP,3B,1506,Counter Clockwise,0,303,LOOP_OUTER,,1
-LOOP,3B,1507,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1508,Clockwise,1,304,LOOP_INNER_TO_MG,,1
-UC,3B,1509,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
-LOOP,3B,1510,Counter Clockwise,0,302,LOOP_OUTER,,1
-LOOP,3B,1511,Clockwise,1,305,LOOP_INNER,,1
-LOOP,3B,1512,Clockwise,1,306,LOOP_INNER_TO_MG,,1
-LOOP,3B,1513,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
-UC,3B,1514,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
-LOOP,3B,1515,Counter Clockwise,0,302,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1516,Clockwise,1,305,LOOP_INNER_TO_MG,,1
-UC,3B,1517,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
-LOOP,3B,1518,Clockwise,1,306,LOOP_INNER,,1
-LOOP,3B,1519,Counter Clockwise,0,301,LOOP_OUTER,,1
-LOOP,3B,1520,Clockwise,1,304,LOOP_INNER,,1
-LOOP,3B,1521,Counter Clockwise,0,303,LOOP_OUTER,,1
-LOOP,3B,1522,Clockwise,1,306,LOOP_INNER,,1
-LOOP,3B,1523,Counter Clockwise,0,301,LOOP_OUTER,,1
-LOOP,3B,1524,Clockwise,1,304,LOOP_INNER,,1
-LOOP,3B,1525,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1526,Clockwise,1,305,LOOP_INNER,,1
-UC,3B,1527,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
-LOOP,3B,1528,Clockwise,1,306,LOOP_INNER_TO_MG,,1
-LOOP,3B,1529,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1530,Clockwise,1,304,LOOP_INNER_TO_MG,,1
-UC,3B,1531,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
-LOOP,3B,1532,Counter Clockwise,0,302,LOOP_OUTER,,1
-LOOP,3B,1533,Clockwise,1,305,LOOP_INNER_TO_MG,,1
-UC,3B,1534,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
-LOOP,3B,1535,Counter Clockwise,0,302,LOOP_OUTER,,1
-UC,3B,1536,Upper Campus to Oakes/West Remote,0,307,UC_ERM_TO_WRM,,2
-UC,3B,1537,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
-LOOP,3B,1538,Counter Clockwise,0,303,LOOP_OUTER,,1
-LOOP,3B,1539,Clockwise,1,306,LOOP_INNER,,1
-UC,3B,1540,Upper Campus to East Remote,1,307,UC_WRM_TO_ERM,,2
-LOOP,3B,1541,Counter Clockwise,0,302,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1542,Clockwise,1,305,LOOP_INNER,,1
-LOOP,3B,1543,Counter Clockwise,0,303,LOOP_OUTER,,1
-LOOP,3B,1544,Clockwise,1,306,LOOP_INNER,,1
-UC,3B,1545,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
-LOOP,3B,1546,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1547,Clockwise,1,304,LOOP_INNER_TO_MG,,1
-LOOP,3B,1548,Clockwise,1,305,LOOP_INNER_TO_MG,,1
-LOOP,3B,1549,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
-UC,3B,1550,Upper Campus to Oakes/West Remote,0,307,UC_ERM_TO_WRM,,2
-UC,3B,1551,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
-LOOP,3B,1552,Clockwise,1,306,LOOP_INNER,,1
-LOOP,3B,1553,Clockwise,1,306,LOOP_INNER_TO_MG,,1
-UC,3B,1554,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
-LOOP,3B,1555,Counter Clockwise,0,301,LOOP_OUTER,,1
-LOOP,3B,1556,Clockwise,1,304,LOOP_INNER,,1
-LOOP,3B,1557,Counter Clockwise,0,302,LOOP_OUTER,,1
-UC,3B,1558,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
-LOOP,3B,1559,Clockwise,1,304,LOOP_INNER,,1
-LOOP,3B,1560,Counter Clockwise,0,301,LOOP_OUTER,,1
-UC,3B,1561,Upper Campus to East Remote,1,307,UC_WRM_TO_ERM,,2
-UC,3B,1562,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
-LOOP,3B,1563,Counter Clockwise,0,302,LOOP_OUTER,,1
-LOOP,3B,1564,Clockwise,1,305,LOOP_INNER,,1
-LOOP,3B,1565,Counter Clockwise,0,303,LOOP_OUTER,,1
-LOOP,3B,1566,Clockwise,1,304,LOOP_INNER_TO_MG,,1
-UC,3B,1567,Upper Campus to Oakes/West Remote,0,307,UC_ERM_TO_WRM,,2
-UC,3B,1568,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
-LOOP,3B,1569,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1570,Counter Clockwise,0,302,LOOP_OUTER,,1
-LOOP,3B,1571,Clockwise,1,305,LOOP_INNER,,1
-UC,3B,1572,Upper Campus to East Remote,1,307,UC_WRM_TO_ERM,,2
-LOOP,3B,1573,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1574,Clockwise,1,306,LOOP_INNER,,1
-LOOP,3B,1575,Counter Clockwise,0,302,LOOP_OUTER_TO_MG,,1
-UC,3B,1576,Upper Campus to Oakes/West Remote,0,307,UC_ERM_TO_WRM,,2
-LOOP,3B,1577,Clockwise,1,305,LOOP_INNER_TO_MG,,1
-LOOP,3B,1578,Clockwise,1,306,LOOP_INNER,,1
-LOOP,3B,1579,Counter Clockwise,0,301,LOOP_OUTER,,1
-LOOP,3B,1580,Clockwise,1,304,LOOP_INNER,,1
-LOOP,3B,1581,Counter Clockwise,0,303,LOOP_OUTER,,1
-LOOP,3B,1582,Clockwise,1,306,LOOP_INNER,,1
-UC,3B,1583,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
-LOOP,3B,1584,Counter Clockwise,0,301,LOOP_OUTER,,1
-LOOP,3B,1585,Clockwise,1,304,LOOP_INNER,,1
-LOOP,3B,1586,Counter Clockwise,0,302,LOOP_OUTER,,1
-LOOP,3B,1587,Clockwise,1,305,LOOP_INNER,,1
-UC,3B,1588,Upper Campus to East Remote,1,307,UC_WRM_TO_ERM,,2
-UC,3B,1589,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
-LOOP,3B,1590,Counter Clockwise,0,303,LOOP_OUTER,,1
-LOOP,3B,1591,Clockwise,1,306,LOOP_INNER_TO_MG,,1
-LOOP,3B,1592,Clockwise,1,304,LOOP_INNER_TO_MG,,1
-UC,3B,1593,Upper Campus to Oakes/West Remote,0,307,UC_ERM_TO_WRM,,2
-LOOP,3B,1594,Counter Clockwise,0,321,LOOP_OUTER,,1
-UC,3B,1595,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
-LOOP,3B,1596,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1597,Counter Clockwise,0,302,LOOP_OUTER,,1
-LOOP,3B,1598,Clockwise,1,305,LOOP_INNER_TO_MG,,1
-LOOP,3B,1599,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1600,Counter Clockwise,0,321,LOOP_OUTER,,1
-LOOP,3B,1601,Counter Clockwise,0,302,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1602,Clockwise,1,314,LOOP_INNER,,1
-LOOP,3B,1603,Counter Clockwise,0,301,LOOP_OUTER,,1
-LOOP,3B,1604,Clockwise,1,304,LOOP_INNER,,1
-LOOP,3B,1605,Counter Clockwise,0,321,LOOP_OUTER_TO_MG,,1
-UC,3B,1606,Upper Campus to East Remote,1,324,UC_WRM_TO_ERM,,2
-UC,3B,1607,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
-LOOP,3B,1608,Clockwise,1,305,LOOP_INNER,,1
-LOOP,3B,1609,Counter Clockwise,0,307,LOOP_OUTER,,1
-LOOP,3B,1610,Counter Clockwise,0,303,LOOP_OUTER,,1
-LOOP,3B,1611,Clockwise,1,314,LOOP_INNER_TO_MG,,1
-LOOP,3B,1612,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1613,Clockwise,1,306,LOOP_INNER,,1
-UC,3B,1614,Upper Campus to Oakes/West Remote,0,324,UC_ERM_TO_WRM,,2
-UC,3B,1615,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
-LOOP,3B,1616,Counter Clockwise,0,302,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1617,Clockwise,1,304,LOOP_INNER_TO_MG,,1
-LOOP,3B,1618,Clockwise,1,305,LOOP_INNER_TO_MG,,1
-LOOP,3B,1619,Counter Clockwise,0,307,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1620,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1621,Clockwise,1,315,LOOP_INNER,,1
-UC,3B,1622,Upper Campus to East Remote,1,324,UC_WRM_TO_ERM,,2
-UC,3B,1623,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
-LOOP,3B,1624,Clockwise,1,306,LOOP_INNER_TO_MG,,1
-LOOP,3B,1625,Counter Clockwise,0,312,LOOP_OUTER,,1
-LOOP,3B,1626,Clockwise,1,314,LOOP_INNER_TO_MG,,1
-UC,3B,1627,Upper Campus to Oakes/West Remote,0,324,UC_ERM_TO_WRM,,2
-UC,3B,1628,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
-LOOP,3B,1629,Counter Clockwise,0,312,LOOP_OUTER,,1
-LOOP,3B,1630,Clockwise,1,315,LOOP_INNER,,1
-LOOP,3B,1631,Counter Clockwise,0,321,LOOP_OUTER,,1
-LOOP,3B,1632,Counter Clockwise,0,312,LOOP_OUTER,,1
-LOOP,3B,1633,Clockwise,1,315,LOOP_INNER,,1
-LOOP,3B,1634,Clockwise,1,314,LOOP_INNER,,1
-LOOP,3B,1635,Counter Clockwise,0,321,LOOP_OUTER,,1
-UC,3B,1636,Upper Campus to East Remote,1,324,UC_WRM_TO_ERM,,2
-UC,3B,1637,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
-LOOP,3B,1638,Counter Clockwise,0,312,LOOP_OUTER_TO_MG,,1
-LOOP,3B,1639,Clockwise,1,315,LOOP_INNER_TO_MG,,1
-LOOP,3B,1640,Clockwise,1,314,LOOP_INNER_TO_MG,,1
-UC,3B,1641,Upper Campus to Oakes/West Remote,0,324,UC_ERM_TO_WRM,,2
-UC,3B,1642,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
-LOOP,3B,1643,Counter Clockwise,0,321,LOOP_OUTER,,1
-UC,3B,1644,Upper Campus to East Remote,1,324,UC_WRM_TO_ERM,,2
-UC,3B,1645,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
-LOOP,3B,1646,Clockwise,1,314,LOOP_INNER_TO_MG,,1
-LOOP,3B,1647,Counter Clockwise,0,321,LOOP_OUTER_TO_MG,,1
-UC,3B,1648,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
-LOOP,3B,1649,Counter Clockwise,0,312,LOOP_OUTER,,1
-LOOP,3B,1650,Clockwise,1,315,LOOP_INNER_TO_MG,,1
-LOOP,3B,1651,Counter Clockwise,0,312,LOOP_OUTER,,1
-UC,3B,1652,Upper Campus to East Remote,1,324,UC_WRM_TO_ERM,,2
-UC,3B,1653,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
-LOOP,3B,1654,Counter Clockwise,0,313,LOOP_OUTER,,1
-LOOP,3B,1655,Clockwise,1,316,LOOP_INNER,,1
+LOOP,33,1500,Counter Clockwise,0,301,LOOP_OUTER,,1
+LOOP,33,1501,Clockwise,1,304,LOOP_INNER,,1
+LOOP,33,1502,Counter Clockwise,0,302,LOOP_OUTER,,1
+LOOP,33,1503,Clockwise,1,305,LOOP_INNER,,1
+UC,33,1504,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
+LOOP,33,1505,Clockwise,1,306,LOOP_INNER,,1
+LOOP,33,1506,Counter Clockwise,0,303,LOOP_OUTER,,1
+LOOP,33,1507,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
+LOOP,33,1508,Clockwise,1,304,LOOP_INNER_TO_MG,,1
+UC,33,1509,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
+LOOP,33,1510,Counter Clockwise,0,302,LOOP_OUTER,,1
+LOOP,33,1511,Clockwise,1,305,LOOP_INNER,,1
+LOOP,33,1512,Clockwise,1,306,LOOP_INNER_TO_MG,,1
+LOOP,33,1513,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
+UC,33,1514,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
+LOOP,33,1515,Counter Clockwise,0,302,LOOP_OUTER_TO_MG,,1
+LOOP,33,1516,Clockwise,1,305,LOOP_INNER_TO_MG,,1
+UC,33,1517,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
+LOOP,33,1518,Clockwise,1,306,LOOP_INNER,,1
+LOOP,33,1519,Counter Clockwise,0,301,LOOP_OUTER,,1
+LOOP,33,1520,Clockwise,1,304,LOOP_INNER,,1
+LOOP,33,1521,Counter Clockwise,0,303,LOOP_OUTER,,1
+LOOP,33,1522,Clockwise,1,306,LOOP_INNER,,1
+LOOP,33,1523,Counter Clockwise,0,301,LOOP_OUTER,,1
+LOOP,33,1524,Clockwise,1,304,LOOP_INNER,,1
+LOOP,33,1525,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
+LOOP,33,1526,Clockwise,1,305,LOOP_INNER,,1
+UC,33,1527,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
+LOOP,33,1528,Clockwise,1,306,LOOP_INNER_TO_MG,,1
+LOOP,33,1529,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
+LOOP,33,1530,Clockwise,1,304,LOOP_INNER_TO_MG,,1
+UC,33,1531,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
+LOOP,33,1532,Counter Clockwise,0,302,LOOP_OUTER,,1
+LOOP,33,1533,Clockwise,1,305,LOOP_INNER_TO_MG,,1
+UC,33,1534,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
+LOOP,33,1535,Counter Clockwise,0,302,LOOP_OUTER,,1
+UC,33,1536,Upper Campus to Oakes/West Remote,0,307,UC_ERM_TO_WRM,,2
+UC,33,1537,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
+LOOP,33,1538,Counter Clockwise,0,303,LOOP_OUTER,,1
+LOOP,33,1539,Clockwise,1,306,LOOP_INNER,,1
+UC,33,1540,Upper Campus to East Remote,1,307,UC_WRM_TO_ERM,,2
+LOOP,33,1541,Counter Clockwise,0,302,LOOP_OUTER_TO_MG,,1
+LOOP,33,1542,Clockwise,1,305,LOOP_INNER,,1
+LOOP,33,1543,Counter Clockwise,0,303,LOOP_OUTER,,1
+LOOP,33,1544,Clockwise,1,306,LOOP_INNER,,1
+UC,33,1545,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
+LOOP,33,1546,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
+LOOP,33,1547,Clockwise,1,304,LOOP_INNER_TO_MG,,1
+LOOP,33,1548,Clockwise,1,305,LOOP_INNER_TO_MG,,1
+LOOP,33,1549,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
+UC,33,1550,Upper Campus to Oakes/West Remote,0,307,UC_ERM_TO_WRM,,2
+UC,33,1551,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
+LOOP,33,1552,Clockwise,1,306,LOOP_INNER,,1
+LOOP,33,1553,Clockwise,1,306,LOOP_INNER_TO_MG,,1
+UC,33,1554,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
+LOOP,33,1555,Counter Clockwise,0,301,LOOP_OUTER,,1
+LOOP,33,1556,Clockwise,1,304,LOOP_INNER,,1
+LOOP,33,1557,Counter Clockwise,0,302,LOOP_OUTER,,1
+UC,33,1558,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
+LOOP,33,1559,Clockwise,1,304,LOOP_INNER,,1
+LOOP,33,1560,Counter Clockwise,0,301,LOOP_OUTER,,1
+UC,33,1561,Upper Campus to East Remote,1,307,UC_WRM_TO_ERM,,2
+UC,33,1562,Upper Campus to Oakes/West Remote,0,323,UC_ERM_TO_WRM,,2
+LOOP,33,1563,Counter Clockwise,0,302,LOOP_OUTER,,1
+LOOP,33,1564,Clockwise,1,305,LOOP_INNER,,1
+LOOP,33,1565,Counter Clockwise,0,303,LOOP_OUTER,,1
+LOOP,33,1566,Clockwise,1,304,LOOP_INNER_TO_MG,,1
+UC,33,1567,Upper Campus to Oakes/West Remote,0,307,UC_ERM_TO_WRM,,2
+UC,33,1568,Upper Campus to East Remote,1,323,UC_WRM_TO_ERM,,2
+LOOP,33,1569,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
+LOOP,33,1570,Counter Clockwise,0,302,LOOP_OUTER,,1
+LOOP,33,1571,Clockwise,1,305,LOOP_INNER,,1
+UC,33,1572,Upper Campus to East Remote,1,307,UC_WRM_TO_ERM,,2
+LOOP,33,1573,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
+LOOP,33,1574,Clockwise,1,306,LOOP_INNER,,1
+LOOP,33,1575,Counter Clockwise,0,302,LOOP_OUTER_TO_MG,,1
+UC,33,1576,Upper Campus to Oakes/West Remote,0,307,UC_ERM_TO_WRM,,2
+LOOP,33,1577,Clockwise,1,305,LOOP_INNER_TO_MG,,1
+LOOP,33,1578,Clockwise,1,306,LOOP_INNER,,1
+LOOP,33,1579,Counter Clockwise,0,301,LOOP_OUTER,,1
+LOOP,33,1580,Clockwise,1,304,LOOP_INNER,,1
+LOOP,33,1581,Counter Clockwise,0,303,LOOP_OUTER,,1
+LOOP,33,1582,Clockwise,1,306,LOOP_INNER,,1
+UC,33,1583,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
+LOOP,33,1584,Counter Clockwise,0,301,LOOP_OUTER,,1
+LOOP,33,1585,Clockwise,1,304,LOOP_INNER,,1
+LOOP,33,1586,Counter Clockwise,0,302,LOOP_OUTER,,1
+LOOP,33,1587,Clockwise,1,305,LOOP_INNER,,1
+UC,33,1588,Upper Campus to East Remote,1,307,UC_WRM_TO_ERM,,2
+UC,33,1589,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
+LOOP,33,1590,Counter Clockwise,0,303,LOOP_OUTER,,1
+LOOP,33,1591,Clockwise,1,306,LOOP_INNER_TO_MG,,1
+LOOP,33,1592,Clockwise,1,304,LOOP_INNER_TO_MG,,1
+UC,33,1593,Upper Campus to Oakes/West Remote,0,307,UC_ERM_TO_WRM,,2
+LOOP,33,1594,Counter Clockwise,0,321,LOOP_OUTER,,1
+UC,33,1595,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
+LOOP,33,1596,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
+LOOP,33,1597,Counter Clockwise,0,302,LOOP_OUTER,,1
+LOOP,33,1598,Clockwise,1,305,LOOP_INNER_TO_MG,,1
+LOOP,33,1599,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
+LOOP,33,1600,Counter Clockwise,0,321,LOOP_OUTER,,1
+LOOP,33,1601,Counter Clockwise,0,302,LOOP_OUTER_TO_MG,,1
+LOOP,33,1602,Clockwise,1,314,LOOP_INNER,,1
+LOOP,33,1603,Counter Clockwise,0,301,LOOP_OUTER,,1
+LOOP,33,1604,Clockwise,1,304,LOOP_INNER,,1
+LOOP,33,1605,Counter Clockwise,0,321,LOOP_OUTER_TO_MG,,1
+UC,33,1606,Upper Campus to East Remote,1,324,UC_WRM_TO_ERM,,2
+UC,33,1607,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
+LOOP,33,1608,Clockwise,1,305,LOOP_INNER,,1
+LOOP,33,1609,Counter Clockwise,0,307,LOOP_OUTER,,1
+LOOP,33,1610,Counter Clockwise,0,303,LOOP_OUTER,,1
+LOOP,33,1611,Clockwise,1,314,LOOP_INNER_TO_MG,,1
+LOOP,33,1612,Counter Clockwise,0,301,LOOP_OUTER_TO_MG,,1
+LOOP,33,1613,Clockwise,1,306,LOOP_INNER,,1
+UC,33,1614,Upper Campus to Oakes/West Remote,0,324,UC_ERM_TO_WRM,,2
+UC,33,1615,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
+LOOP,33,1616,Counter Clockwise,0,302,LOOP_OUTER_TO_MG,,1
+LOOP,33,1617,Clockwise,1,304,LOOP_INNER_TO_MG,,1
+LOOP,33,1618,Clockwise,1,305,LOOP_INNER_TO_MG,,1
+LOOP,33,1619,Counter Clockwise,0,307,LOOP_OUTER_TO_MG,,1
+LOOP,33,1620,Counter Clockwise,0,303,LOOP_OUTER_TO_MG,,1
+LOOP,33,1621,Clockwise,1,315,LOOP_INNER,,1
+UC,33,1622,Upper Campus to East Remote,1,324,UC_WRM_TO_ERM,,2
+UC,33,1623,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
+LOOP,33,1624,Clockwise,1,306,LOOP_INNER_TO_MG,,1
+LOOP,33,1625,Counter Clockwise,0,312,LOOP_OUTER,,1
+LOOP,33,1626,Clockwise,1,314,LOOP_INNER_TO_MG,,1
+UC,33,1627,Upper Campus to Oakes/West Remote,0,324,UC_ERM_TO_WRM,,2
+UC,33,1628,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
+LOOP,33,1629,Counter Clockwise,0,312,LOOP_OUTER,,1
+LOOP,33,1630,Clockwise,1,315,LOOP_INNER,,1
+LOOP,33,1631,Counter Clockwise,0,321,LOOP_OUTER,,1
+LOOP,33,1632,Counter Clockwise,0,312,LOOP_OUTER,,1
+LOOP,33,1633,Clockwise,1,315,LOOP_INNER,,1
+LOOP,33,1634,Clockwise,1,314,LOOP_INNER,,1
+LOOP,33,1635,Counter Clockwise,0,321,LOOP_OUTER,,1
+UC,33,1636,Upper Campus to East Remote,1,324,UC_WRM_TO_ERM,,2
+UC,33,1637,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
+LOOP,33,1638,Counter Clockwise,0,312,LOOP_OUTER_TO_MG,,1
+LOOP,33,1639,Clockwise,1,315,LOOP_INNER_TO_MG,,1
+LOOP,33,1640,Clockwise,1,314,LOOP_INNER_TO_MG,,1
+UC,33,1641,Upper Campus to Oakes/West Remote,0,324,UC_ERM_TO_WRM,,2
+UC,33,1642,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
+LOOP,33,1643,Counter Clockwise,0,321,LOOP_OUTER,,1
+UC,33,1644,Upper Campus to East Remote,1,324,UC_WRM_TO_ERM,,2
+UC,33,1645,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
+LOOP,33,1646,Clockwise,1,314,LOOP_INNER_TO_MG,,1
+LOOP,33,1647,Counter Clockwise,0,321,LOOP_OUTER_TO_MG,,1
+UC,33,1648,Upper Campus to East Remote,1,325,UC_WRM_TO_ERM,,2
+LOOP,33,1649,Counter Clockwise,0,312,LOOP_OUTER,,1
+LOOP,33,1650,Clockwise,1,315,LOOP_INNER_TO_MG,,1
+LOOP,33,1651,Counter Clockwise,0,312,LOOP_OUTER,,1
+UC,33,1652,Upper Campus to East Remote,1,324,UC_WRM_TO_ERM,,2
+UC,33,1653,Upper Campus to Oakes/West Remote,0,325,UC_ERM_TO_WRM,,2
+LOOP,33,1654,Counter Clockwise,0,313,LOOP_OUTER,,1
+LOOP,33,1655,Clockwise,1,316,LOOP_INNER,,1
 NUC,5,50301,Upper Campus to Oakes/West Remote,0,503,NUC_OB,,1
 NUC,5,50302,Upper Campus to Main Entrance,1,503,NUC_IB,,1
 NUC,5,50303,Upper Campus to Oakes/West Remote,0,503,NUC_OB,,1
