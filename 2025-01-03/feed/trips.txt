@@ -190,7 +190,7 @@ NUC,3,31613,Upper Campus to Main Entrance,1,316,NUC_IB,,
 NUC,3,31614,Upper Campus to Oakes/West Remote,0,316,NUC_OB,,
 NUC,3,31615,Upper Campus to Main Entrance,1,316,NUC_IB,,
 NUC,3,31616,Upper Campus to Oakes/West Remote,0,316,NUC_OB,,
-NUC,3,31617,Upper Campus via McHenry,1,316,MCHENRY_NUC,,
+NUC,3,31617,Upper Campus to Main Entrance,1,316,NUC_IB,,
 LOOP,2,20401,Clockwise,1,204,LOOP_INNER,,
 LOOP,2,20402,Clockwise,1,204,LOOP_INNER,,
 LOOP,2,20403,Clockwise,1,204,LOOP_INNER_TO_MG,,
@@ -359,7 +359,7 @@ NUC,2,21614,Upper Campus to Main Entrance,1,216,NUC_IB,,
 NUC,2,21615,Upper Campus to Oakes/West Remote,0,216,NUC_OB,,
 NUC,2,21616,Upper Campus to Main Entrance,1,216,NUC_IB,,
 NUC,2,21617,Upper Campus to Oakes/West Remote,0,216,NUC_OB,,
-NUC,2,21618,Upper Campus via McHenry,1,216,MCHENRY_NUC,,
+NUC,2,21618,Upper Campus to Main Entrance,1,216,NUC_IB,,
 LOOP,2,20101,Counter Clockwise,0,201,LOOP_OUTER,,
 LOOP,2,20102,Counter Clockwise,0,201,LOOP_OUTER,,
 LOOP,2,20103,Counter Clockwise,0,201,LOOP_OUTER_TO_MG,,
@@ -626,7 +626,7 @@ NUC,6,60216,Upper Campus to Main Entrance,1,602,NUC_IB,,1
 NUC,6,60217,Upper Campus to Oakes/West Remote,0,602,NUC_OB,,1
 NUC,6,60218,Upper Campus to Main Entrance,1,602,NUC_IB,,1
 NUC,6,60219,Upper Campus to Oakes/West Remote,0,602,NUC_OB,,1
-NUC,6,60220,Upper Campus via McHenry,1,602,MCHENRY_NUC,,1
+NUC,6,60220,Upper Campus to Main Entrance,1,602,NUC_IB,,1
 SHL,2,20801,Science Hill Limited,0,208,EHL_OB,,
 SHL,2,20802,Science Hill Limited,1,208,EHL_IB,,
 LOOP,2,20803,Counter Clockwise,0,208,LOOP_OUTER_TO_MG,,

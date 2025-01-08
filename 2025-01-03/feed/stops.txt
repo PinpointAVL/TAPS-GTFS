@@ -38,4 +38,3 @@
 2749,2749,Coastal Biology Building,,36.9524805457943,-122.065508316218,UCSC,,,,,
 2750,2750,Coastal Biology Building,,36.9525582456487,-122.065437,UCSC,,,,,
 122,122,Barn Theater/Main Entrance (Drop Off Only),,36.9777672245044,-122.054016009393,UCSC,,,,,
-120,120,McHenry Library (Special Trips Only),,36.9964375647957,-122.058671205207,UCSC,,,,,
