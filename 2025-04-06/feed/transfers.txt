@@ -1,0 +1,1 @@
+﻿from_trip_id,to_trip_id,transfer_type,min_transfer_time
