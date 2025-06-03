@@ -38,3 +38,6 @@
 2749,2749,Coastal Biology Building,,36.9524805457943,-122.065508316218,UCSC,,,,,
 2750,2750,Coastal Biology Building,,36.9525582456487,-122.065437,UCSC,,,,,
 122,122,Barn Theater/Main Entrance (Drop Off Only),,36.9777672245044,-122.054016009393,UCSC,,,,,
+800,800,Del Mar Theatre,,36.9725553341713,-122.025680612158,cruzer_zone,,,,,
+801,801,Locust Street Garage,,36.9752434106014,-122.027226591586,cruzer_zone,,,,,
+802,802,Marine Exploration Center,,36.963414098406,-122.024637044007,cruzer_zone,,,,,

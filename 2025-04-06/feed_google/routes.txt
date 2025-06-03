@@ -4,3 +4,4 @@ UC,TAPS,UC,Upper Campus,,3,https://taps.ucsc.edu/buses-shuttles/campus-shuttle-t
 WC,TAPS,WC,Westside Connector,,3,https://taps.ucsc.edu/buses-shuttles/westside-connector.html,F29813,FFFFFF,1,1,1
 NUC,TAPS,NUC,Night Upper Campus,,3,https://taps.ucsc.edu/buses-shuttles/campus-shuttle-timetables.html#nuc-mw,475485,FFFFFF,4,1,1
 UCL,TAPS,UCL,Upper Campus Limited,,3,https://taps.ucsc.edu/buses-shuttles/campus-shuttles.html#UCLimited,F29813,FFFFFF,5,1,1
+SC,SantaCruz,Santa Cruzer,Beach/Downtown Shuttle,,3,https://www.cityofsantacruz.com/government/city-departments/economic-development/the-santa-cruzer-beach-downtown-shuttle,4197B5,FFFFFF,5,1,1
